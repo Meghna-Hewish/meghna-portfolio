@@ -1,6 +1,7 @@
 # Meghna Nagabhooshana – Portfolio
 
 🚀 Live: [View My Portfolio](https://stellar-nasturtium-148313.netlify.app/)
+![Portfolio Preview](public/images/preview1.png)
 
 This is my personal 3D portfolio website built using React, TypeScript, Three.js, and GSAP.
 
