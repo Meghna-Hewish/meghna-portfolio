@@ -1,6 +1,12 @@
 import HoverLinks from "./HoverLinks";
 import "./styles/Navbar.css";
 
+export const smoother = {
+  paused: (_value?: boolean) => {},
+  scrollTo: (_target?: string, _smooth?: boolean, _position?: string) => {},
+  scrollTop: (_value?: number) => {},
+};
+
 const Navbar = () => {
   return (
     <>
