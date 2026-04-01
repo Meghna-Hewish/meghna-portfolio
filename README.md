@@ -29,3 +29,5 @@ Graduate Software Engineer with experience in customer service and strong intere
 ```bash
 npm install
 npm run dev
+---
+✨ Built by [Meghna Nagabhooshana](https://github.com/Meghna-Hewish)
