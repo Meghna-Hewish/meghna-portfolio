@@ -1,42 +1,31 @@
-# Meghna Portfolio Website
+# Meghna Nagabhooshana – Portfolio
 
-This repository contains the source code for my personal portfolio website built with React, TypeScript, Three.js, React Three Fiber, and GSAP.
+This is my personal 3D portfolio website built using React, TypeScript, Three.js, and GSAP.
 
-It showcases my background, projects, technical skills, and contact information in an interactive portfolio format.
+## 👩‍💻 About Me
+Graduate Software Engineer with experience in customer service and strong interest in frontend and full-stack development.
 
-## Live Preview
-
-Portfolio website for Meghna Nagabhooshana.
-
-## Features
-
-- Interactive 3D portfolio design
-- Animated landing section
-- About me section
-- What I do section
-- Career and experience timeline
-- Projects showcase
-- Tech stack section
-- Contact section
-- Resume download button
-
-## Tech Stack
-
+## 🚀 Tech Stack
 - React
 - TypeScript
 - JavaScript
 - Three.js
 - React Three Fiber
 - GSAP
-- HTML
-- CSS
+- HTML & CSS
 
-## Project Structure
+## 📂 Features
+- Interactive 3D UI
+- Smooth animations
+- Tech stack visualisation
+- Contact section
+- Resume section
 
+## 🔗 Links
+- GitHub: https://github.com/Meghna-Hewish
+- LinkedIn: https://www.linkedin.com/in/meghna-n-729875192
+
+## ▶️ Run Locally
 ```bash
-src/
-  components/
-  context/
-  data/
-  types/
-public/
+npm install
+npm run dev
